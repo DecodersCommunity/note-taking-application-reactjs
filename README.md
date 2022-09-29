@@ -1,6 +1,6 @@
 # note-taking-application-reactjs
 A smart Note Taking application to manage your tasks
-![Untitled design (2)](https://user-images.githubusercontent.com/75475819/192336309-98249162-ca44-4f7c-b930-25f4beaa105f.png)
+![Untitled design (2)](https://note-taking-application-react.netlify.app/)
 
 <p align="center">
 <a href="https://t.me/decoderscommunity">
