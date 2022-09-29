@@ -24,7 +24,7 @@ Do star the Decoder's Note Taking Application (React JS) repository ✨✨✨
 <p align="center">☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷</p>
 
 
-# Note Taking Application (React JS) Application
+# Note Taking Application (React JS)
 
 A simple Note taking application made using React JS. Notes added by the user gets saved in local storage.
 
