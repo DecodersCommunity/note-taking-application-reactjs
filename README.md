@@ -30,7 +30,8 @@ A simple Note taking application made using React JS. Notes added by the user ge
 
 Made with the intention of guiding beginner contributors towards open source, this respositoy is going to be maintained by: Shivam Agarwal and Raj Gautam.
 
-### This project is deployed at: <a href="https://note-taking-application-react.netlify.app">click here</a>
+### This project is deployed on Netlify
+<a href="https://note-taking-application-react.netlify.app">click here</a> to view the deployed application.
 
 ## How to Contribute?
 
