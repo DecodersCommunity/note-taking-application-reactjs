@@ -1,7 +1,3 @@
-# note-taking-application-reactjs
-A smart Note Taking application to manage your tasks
-![Untitled design (2)](https://note-taking-application-react.netlify.app/)
-
 <p align="center">
 <a href="https://t.me/decoderscommunity">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50px" />
