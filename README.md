@@ -28,10 +28,11 @@ Do star the Decoder's Note Taking Application (React JS) repository ✨✨✨
 
 A simple Note taking application made using React JS. Notes added by the user gets saved in local storage.
 
-Made with the intention of guiding beginner contributors towards open source, this respositoy is going to be maintained by: Shivam Agarwal and Raj Gautam.
+Made with the intention of guiding beginner contributors towards open source.
 
-### This project is deployed on Netlify
-<a href="https://note-taking-application-react.netlify.app">click here</a> to view the deployed application.
+This respositoy is maintained by: [Shivam Agarwal](https://github.com/shivamagarwal2510), [Raj Gautam]
+
+This project is deployed on Netlify:- <a href="https://note-taking-application-react.netlify.app">click here</a> to view the deployed application.
 
 ## How to Contribute?
 
