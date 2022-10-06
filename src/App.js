@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div className="bg-indigo-500 w-[100vw] h-[100vh] mt-[-1px] pt-[1px]">
+        <div className='bg-white w-[30vw] h-[60vh] m-auto my-[18vh] rounded-2xl'>
+            <div className='text-2xl text-center text-indigo-600 font-bold pt-[1vh]'>Note-Taking Application</div>
+            <div className='text-center'>Add Note</div>
+            <form className='flex flex-col'>
+                <input
+                 type="text"
+                  placeholder="Title" 
+                  className='mx-[2vw] mt-[7vh] border-b-2 border-gray-400 focus:border-indigo-600' />
+                <textarea 
+                 placeholder="Enter a Note"
+                  className='mx-[2vw] mt-[7vh] border-b-2 border-gray-400 focus:border-indigo-600' />
+                <button className=' bg-indigo-600 mx-[2vw] mt-[4vh] p-2 text-white'>Add</button>
+            </form>
+        </div>
+      </div>
+    </>
   );
 }
 
