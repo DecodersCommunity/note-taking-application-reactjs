@@ -15,7 +15,7 @@ function App() {
                 <textarea 
                  placeholder="Write your Note here"
                   className='mx-[2vw] mt-[7vh] border-b-2 border-gray-400 focus:border-indigo-600' />
-                <button className=' bg-indigo-600 mx-[2vw] mt-[4vh] p-2 text-white'>Add</button>
+                <button className=' bg-indigo-600 mx-[2vw] mt-[4vh] p-2 text-white'>Add Note</button>
             </form>
         </div>
       </div>
