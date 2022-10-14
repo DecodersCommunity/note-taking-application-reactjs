@@ -5,7 +5,7 @@ function App() {
     <>
       <div className="bg-indigo-500 w-[100vw] h-[100vh] mt-[-1px] pt-[1px]">
         <div className='bg-white w-[30vw] h-[60vh] m-auto my-[18vh] rounded-2xl'>
-            <div className='text-2xl text-center text-indigo-600 font-bold pt-[1vh]'>Note-Taking Application</div>
+            <div className='text-2xl text-center text-indigo-600 font-bold pt-[1vh]'>Note Taking Application</div>
             <div className='text-center'>Add Note</div>
             <form className='flex flex-col'>
                 <input
