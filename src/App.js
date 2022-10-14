@@ -10,7 +10,7 @@ function App() {
             <form className='flex flex-col'>
                 <input
                  type="text"
-                  placeholder="Title" 
+                  placeholder="Enter Title" 
                   className='mx-[2vw] mt-[7vh] border-b-2 border-gray-400 focus:border-indigo-600' />
                 <textarea 
                  placeholder="Write your Note here"
